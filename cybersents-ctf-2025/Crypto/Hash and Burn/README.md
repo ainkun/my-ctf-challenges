@@ -40,7 +40,7 @@ However, before we can effectively apply frequency analysis, we must first ident
 
 Once this preprocessing is done, the output of the script (`sol.py`) will map all hashes to provisional characters. Then, by pasting the provisional text into a frequency analysis tool like [quipqiup](https://quipqiup.com/), I can recover the correct message, thus obtaining the flag.
 
-Flag: *`flag{overflowed_rsa_corrupted_it}`*
+Flag: *`FLAG{FREQUENCY_POWER_UNLOCKED}`*
 
 ---
 
