@@ -2,7 +2,7 @@
 
 ## Description
 
-Description: Agent CipherStrike tried to be clever—too clever. Instead of encrypting a top secret message, they hashed it and now can’t remember what it said. Classic.
+Agent CipherStrike tried to be clever—too clever. Instead of encrypting a top secret message, they hashed it and now can’t remember what it said. Classic.
 
 Now the agency’s in chaos, and you're their last hope. Recover the original message from a string of hashes before CipherStrike puts “Unbreakable Genius” to work.
 
